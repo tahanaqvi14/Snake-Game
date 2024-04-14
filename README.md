@@ -1,5 +1,5 @@
 # Snake-Game
-##Modules Used
+## Modules Used
 Pygame
-##Info
+## Info
 
